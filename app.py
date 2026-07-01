@@ -112,7 +112,7 @@ if st.button("Ask EduAI"):
     with st.spinner("Thinking..."):
 
         prompt = f"""
-You are EduAI, an AI Study Assistant developed by Saanvi (Class XI).
+You are EduAI, an AI Study Assistant developed by Saanvi Sh (Class XI-C).
 
 The user may ask you to:
 - Explain topics
