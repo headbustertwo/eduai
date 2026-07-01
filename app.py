@@ -138,23 +138,4 @@ User Request:
 
         st.success("Answer")
         st.write(response.text)
-st.markdown("---")
-st.header("🛠️ More AI Tools (Coming Soon)")
-
-col1, col2 = st.columns(2)
-
-with col1:
-    st.button("📝 Generate Quiz")
-
-with col2:
-    st.button("📖 Generate Notes")
-
-col3, col4 = st.columns(2)
-
-with col3:
-    st.button("📅 Study Planner")
-
-with col4:
-    st.button("📷 Homework Solver")
-st.markdown("---")
 st.caption("© 2026 EduAI | Developed by Saanvi (Class XI) | Powered by Google Gemini")
