@@ -69,7 +69,7 @@ st.markdown("---")
 st.markdown("""
 # 👋 Welcome to EduAI
 
-EduAI is an AI-powered learning assistant designed to help **Class XI students** understand concepts, prepare for exams, generate quizzes, create revision notes, and plan their studies.
+EduAI is an AI-powered learning assistant designed to help **students** understand concepts, prepare for exams, generate quizzes, create revision notes, and plan their studies.
 
 Developed by **Saanvi Sh. (Class XI-C)** as an Artificial Intelligence project supporting **UN Sustainable Development Goal 4: Quality Education**.
 """)
